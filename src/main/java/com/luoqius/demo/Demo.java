@@ -1,0 +1,1 @@
+package com.luoqius.demo;import java.io.File;public class Demo {    public static void main(String[] args) {        File file = new File(".");        String[] dir = file.list();        for (int i = 0; i<dir.length;i++){            System.out.println(dir[i]);        }    }}

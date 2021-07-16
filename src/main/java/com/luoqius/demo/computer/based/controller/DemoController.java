@@ -1,0 +1,1 @@
+package com.luoqius.demo.computer.based.controller;import org.springframework.web.bind.annotation.RestController;@RestControllerpublic class DemoController {}
